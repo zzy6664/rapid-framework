@@ -1,3 +1,2 @@
 # rapid-framework
-Automatically exported from code.google.com/p/rapid-framework
-从googlecode拷贝而来
+从 code.google.com/p/rapid-framework拷贝而来
